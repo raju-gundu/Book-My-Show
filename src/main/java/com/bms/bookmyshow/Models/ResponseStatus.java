@@ -1,6 +1,6 @@
 package com.bms.bookmyshow.Models;
 
-public enum BookingStatus {
+public enum ResponseStatus {
     SUCCESS,
     FAILURE,
     PENDING
